@@ -39,11 +39,22 @@ Sou um estudante de Ciência da Computação na Universidade Federal de Jataí (
 
 ## 📊 Minhas Estatísticas
 
+<!--
 <div align="center">
   <a href="https://github.com/LuizEduardoRezende">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizEduardoRezende"&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoRezende"&layout=compact&langs_count=7&theme=dracula"/>
   </a>
+</div>
+-->
+
+<div align="center">
+  <!-- Alternativa: Shields.io Badges -->
+  <img src="https://img.shields.io/github/followers/LuizEduardoRezende?style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/LuizEduardoRezende?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/commit-activity/y/LuizEduardoRezende/LuizEduardoRezende" alt="Commit Activity"/>
+  <!-- Alternativa: Adicione uma captura de tela estática das suas estatísticas -->
+  <!-- <img src="static-stats-screenshot.png" alt="Minhas Estatísticas"/> -->
 </div>
 
 ---
