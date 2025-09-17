@@ -9,10 +9,10 @@
 
 Sou um estudante de Ciência da Computação na Universidade Federal de Jataí (UFJ), com foco em desenvolvimento Back-End e um grande interesse em compiladores e aprendizado de máquina embarcado (TinyML).
 
-- 🔭 Atualmente, minha energia está voltada para a minha **pesquisa acadêmica sobre compiladores** e para o desenvolvimento do meu TCC sobre **inferência de modelos de IA em linguagens para robótica**.
-- 🌱 Estou sempre aprofundando meus conhecimentos em **Python**, especialmente em frameworks como **Django** e **FastAPI** para a criação de APIs RESTful.
-- 💬 Fale comigo sobre: Python, desenvolvimento de APIs, boas práticas de programação, Git/GitHub e pesquisa acadêmica.
-- 📫 Onde me encontrar: **luiz.rezendemoraes@gmail.com**
+🔭 Atualmente estou trabalhando em pesquisa acadêmica sobre compiladores e TCC de IA para robótica ([robcmp](https://github.com/LuizEduardoRezende/robcmp)).  
+🌱 Atualmente estou aprendendo mais sobre Python, Django e FastAPI para APIs RESTful.  
+💬 Pergunte-me sobre Python, APIs, boas práticas, Git/GitHub e pesquisa acadêmica.  
+📫 Como me encontrar: luiz.rezendemoraes@gmail.com
 
 ---
 
@@ -22,6 +22,7 @@ Sou um estudante de Ciência da Computação na Universidade Federal de Jataí (
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -33,27 +34,13 @@ Sou um estudante de Ciência da Computação na Universidade Federal de Jataí (
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</div>
-
----
-
-## 📊 Minhas Estatísticas
-
-<!--
-<div align="center">
-  <a href="https://github.com/LuizEduardoRezende">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizEduardoRezende"&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoRezende"&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
--->
-
-<div align="center">
-  <!-- Alternativa: Shields.io Badges -->
-  <img src="https://img.shields.io/github/followers/LuizEduardoRezende?style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/LuizEduardoRezende?style=social" alt="GitHub Stars"/>
-  <!-- Alternativa: Adicione uma captura de tela estática das suas estatísticas -->
-  <!-- <img src="static-stats-screenshot.png" alt="Minhas Estatísticas"/> -->
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
 </div>
 
 ---
