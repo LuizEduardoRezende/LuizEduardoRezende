@@ -52,7 +52,6 @@ Sou um estudante de Ciência da Computação na Universidade Federal de Jataí (
   <!-- Alternativa: Shields.io Badges -->
   <img src="https://img.shields.io/github/followers/LuizEduardoRezende?style=social" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/LuizEduardoRezende?style=social" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/commit-activity/y/LuizEduardoRezende/LuizEduardoRezende" alt="Commit Activity"/>
   <!-- Alternativa: Adicione uma captura de tela estática das suas estatísticas -->
   <!-- <img src="static-stats-screenshot.png" alt="Minhas Estatísticas"/> -->
 </div>
