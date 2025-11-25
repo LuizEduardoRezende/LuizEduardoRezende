@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou Luiz Eduardo Moraes Rezende! 👋</h1>
-  <h3>Estudante de Ciência da Computação e desenvolvedor apaixonado por Back-End, Python e pesquisa acadêmica.</h3>
+  <h3>Estudante de Ciência da Computação e desenvolvedor interessado por Back-End, Python e pesquisa acadêmica.</h3>
 </div>
 
 ---
