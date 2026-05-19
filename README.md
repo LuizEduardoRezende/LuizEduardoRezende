@@ -58,6 +58,6 @@ Extending the Robcmp compiler so that AI inference becomes a native capability o
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardoRezende&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuizEduardoRezende&theme=dark)
 
 </div>
